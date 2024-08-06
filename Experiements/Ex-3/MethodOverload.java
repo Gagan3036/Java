@@ -14,7 +14,7 @@ class OverloadDemo {
     }
 }
 
-public class Overload {
+public class MethodOverload {
 
     public static void main(String[] args) {
         OverloadDemo ob = new OverloadDemo();
@@ -24,3 +24,15 @@ public class Overload {
         ob.area(2.5);
     }
 }
+
+
+
+/*
+
+Output:-
+
+The area of the square is 25.0 sq units
+The area of the rectangle is 132.0 sq units
+The area of the circle is 19.625 sq units
+
+ */

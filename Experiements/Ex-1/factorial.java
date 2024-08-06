@@ -6,11 +6,11 @@ public static void main (String args[])
 {
     int i, num, fact=1;
 
-    Scanner s = new Scanner(System.in);
+    Scanner sc = new Scanner(System.in);
 
     System.out.print("Enter number: ");
 
-    num = s.nextInt(); 
+    num = sc.nextInt(); 
 
     for(i=1; i<=num; i++)
     {
@@ -18,6 +18,6 @@ public static void main (String args[])
     }
     System.out.println("Factorial is "+fact);
 
-    s.close();
+    sc.close();
 }
 }
