@@ -1,0 +1,59 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "UpperTriangularMatrix",
+      "request": "launch",
+      "mainClass": "Experiements.UpperTriangularMatrix",
+      "projectName": "Java_717c1a5c"
+    },
+    {
+      "type": "java",
+      "name": "GFG",
+      "request": "launch",
+      "mainClass": "GFG",
+      "projectName": "Java_717c1a5c"
+    },
+    {
+      "type": "java",
+      "name": "UpperTriangularMatrix",
+      "request": "launch",
+      "mainClass": "UpperTriangularMatrix",
+      "projectName": "Java_717c1a5c"
+    },
+    {
+      "type": "java",
+      "name": "Ex",
+      "request": "launch",
+      "mainClass": "Ex",
+      "projectName": "Java_717c1a5c"
+    },
+    {
+      "type": "java",
+      "name": "Ex",
+      "request": "launch",
+      "mainClass": "Experiements.Ex",
+      "projectName": "Java_717c1a5c"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/gagan/Documents/Repository/Java/Experiements",
+      "program": "c:/Users/gagan/Documents/Repository/Java/Experiements/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
