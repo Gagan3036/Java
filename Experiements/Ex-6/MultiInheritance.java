@@ -27,7 +27,6 @@ public class MultiInheritance{
 }
 /*
  * Output:-
-PS C:\Users\gagan\Documents\Repository\Java> cd "c:\Users\gagan\Documents\Repository\Java\Experiements\Ex-6\" ; if ($?) { javac MultiInheritance.java } ; if ($?) { java MultiInheritance }
 Inside display
 Inside area
 Inside volume
