@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Multithread",
+      "request": "launch",
+      "mainClass": "Multithread",
+      "projectName": "Java_717c1a5c"
+    },
+    {
+      "type": "java",
+      "name": "Super_method",
+      "request": "launch",
+      "mainClass": "Super_method",
+      "projectName": "Java_717c1a5c"
+    },
+    {
+      "type": "java",
       "name": "UpperTriangularMatrix",
       "request": "launch",
       "mainClass": "Experiements.UpperTriangularMatrix",
