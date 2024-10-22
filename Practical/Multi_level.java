@@ -17,7 +17,7 @@ class Cube extends Rectangle{
         System.out.println("Inside volume");
     }
 }
-public class MultiInheritance{
+public class Multi_level{
     public static void main(String[] args) {
         Cube cube = new Cube();
         cube.display();

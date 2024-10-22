@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ConstructorOverloading",
+      "request": "launch",
+      "mainClass": "ConstructorOverloading",
+      "projectName": "Java_717c1a5c"
+    },
+    {
+      "type": "java",
+      "name": "constructor_overloading",
+      "request": "launch",
+      "mainClass": "constructor_overloading",
+      "projectName": "Java_717c1a5c"
+    },
+    {
+      "type": "java",
+      "name": "Runnable_Interface",
+      "request": "launch",
+      "mainClass": "Runnable_Interface",
+      "projectName": "Java_717c1a5c"
+    },
+    {
+      "type": "java",
       "name": "Multithread",
       "request": "launch",
       "mainClass": "Multithread",
